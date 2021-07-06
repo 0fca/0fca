@@ -14,3 +14,5 @@ All of the best projects I have created are pinned right below this text.
 ### arkasian@github:~$ htop
 
 [![Arkasian's github stats](https://github-readme-stats.vercel.app/api?username=Arkasian)](https://github.com/Arkasian/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkasian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
