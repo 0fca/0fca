@@ -12,8 +12,8 @@ I am also an aspiring cloud system engineer and what's more I am willing to lear
 All of the best projects I have created are pinned right below this text.
 
 ### arkasian@github:~$ htop
-![](https://komarev.com/ghpvc/?username=Arkasian)
+![](https://komarev.com/ghpvc/?username=0fca)
 
-[![Arkasian's github stats](https://github-readme-stats.vercel.app/api?username=Arkasian)](https://github.com/Arkasian/)
+[![Arkasian's github stats](https://github-readme-stats.vercel.app/api?username=0fca)](https://github.com/0fca/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkasian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0fca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
